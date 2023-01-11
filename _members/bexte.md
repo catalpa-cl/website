@@ -1,9 +1,4 @@
----
-layout: about
-inline: false
-group: Members
-group_rank: 2
-team_frontpage: true---
+------
 layout: about
 inline: false
 group: Members
