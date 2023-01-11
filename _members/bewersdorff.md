@@ -9,7 +9,7 @@ title: Jeanette Bewersdorff
 description: Profile of Jeanette Bewersdorff, PhD Candidate
 lastname: Bewersdorff
 publications: 'author^=*Bewersdorff'
-years: []
+years: [2022]
 
 teaser: >
     Computer Scientist & NLP Researcher
