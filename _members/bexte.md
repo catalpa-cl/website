@@ -1,4 +1,4 @@
-------
+---
 layout: about
 inline: false
 group: Members
